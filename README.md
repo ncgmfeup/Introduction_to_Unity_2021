@@ -4,6 +4,6 @@ In this workshop, the attendees learned how to use Unity's interface and create 
 
 The slides from the workshop can be seen under the docs folder.
 
-The game will be available on our itch.io page.
+The game is available on the Build_Windows.zip file.
 
 To reproduce the result of our workshop, you can follow the steps as described on [our wiki](https://github.com/ncgmfeup/Introduction_to_Unity_2021/wiki).
