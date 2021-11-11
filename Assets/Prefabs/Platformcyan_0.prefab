@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 7340329060410272783}
   - component: {fileID: 7340329060410272781}
   - component: {fileID: 7340329060410272780}
+  - component: {fileID: 315334865117066575}
   m_Layer: 3
   m_Name: Platformcyan_0
   m_TagString: Floor
@@ -129,3 +130,22 @@ PlatformEffector2D:
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
+--- !u!95 &315334865117066575
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7340329060410272816}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9c1d6fbd6c57f4943a80ab7468ea5772, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
